@@ -1,6 +1,0 @@
-{
-  "logistic_min_disparate_impact_ratio": 0.387,
-  "xgboost_min_disparate_impact_ratio": 0.358,
-  "four_fifths_rule_flag_logistic": true,
-  "four_fifths_rule_flag_xgboost": true
-}
