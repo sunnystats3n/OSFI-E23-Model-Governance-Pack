@@ -1,5 +1,0 @@
-age_band,n,actual_event_rate,selection_rate_declined,false_positive_rate,false_negative_rate,true_positive_rate,disparate_impact_ratio_vs_45_59
-30_44,7785,0.0974,0.3796,0.3293,0.1544,0.8456,1.486
-45_59,10756,0.0664,0.2554,0.2201,0.2479,0.7521,1.0
-60_plus,9578,0.0334,0.0915,0.0734,0.3875,0.6125,0.358
-under_30,1759,0.1194,0.4986,0.4429,0.0905,0.9095,1.952
