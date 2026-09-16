@@ -1,7 +1,7 @@
 # Applying OSFI Guideline E-23 to a Retail Credit PD Model: A Governance Case Study
 
 **Ogbonnaya Nzie Ezichi** — [LinkedIn](https://www.linkedin.com/in/ogbonnaya-nzie-ezichi-msc-065687a6/) · [GitHub](https://github.com/sunnystats3n) · [Google Scholar](https://scholar.google.ca/citations?user=80PLXMkAAAAJ&hl=en)
-
+ 
 > **Scope note (read first):** this is an illustrative application of [OSFI Guideline E-23](https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027) to a public dataset, built as a portfolio demonstration — not a claim of regulatory compliance for any real institution. Full disclaimer: [`docs/00_disclaimer.md`](docs/00_disclaimer.md).
 
 ## Why this project
