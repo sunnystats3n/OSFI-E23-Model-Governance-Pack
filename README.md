@@ -1,6 +1,6 @@
 # Applying OSFI Guideline E-23 to a Retail Credit PD Model: An End-to-End Enterprise Governance Case Study
 
-**Author:** Ogbonnaya Nzie Ezichi — [LinkedIn]() · [GitHub]() · [Google Scholar]()
+**Author:** Ogbonnaya Nzie Ezichi 
 
 ---
 
