@@ -5,9 +5,9 @@
 ---
 
 ### 📌 Project Executive Summary
-This project delivers a production-grade, end-to-end implementation of **OSFI Guideline E-23 (Model Risk Management)** frameworks applied to a Probability of Default (PD) retail credit risk modeling exercise. 
+This project treats data governance and model risk governance as the same discipline applied to different objects. Using a retail credit Probability-of-Default (PD) model as the subject, it translates OSFI Guideline E-23's requirements — model inventory, risk tiering, data lineage, governance RACI, ongoing monitoring — into the actual artifacts a governance function would own: the same categories DAMA-DMBOK2 already asks data governance teams to maintain for any other data asset (a registry, a stewardship map, lineage documentation, a quality assessment, a change-control process). E-23 just names them for models specifically.
 
-With OSFI’s revised Guideline E-23 (finalized 2025, effective **May 1, 2027**) explicitly folding AI/ML models into federal supervisory requirements, Canadian financial institutions are facing intense pressure to formalize **explainability, bias mitigation, and data quality lineage**. Rather than approaching governance in the abstract, this repository contains the exact structured artifacts, model validation reports, data cleaning logs, and **RACI framework matrices** that a Second-Line Model Risk Management (MRM) function is required to produce under federal audit.
+OSFI's revised Guideline E-23 (finalized 2025, effective May 1, 2027) folds AI/ML models into federal supervisory requirements for the first time, pushing Canadian financial institutions to formalize explainability, bias screening, and data-quality lineage — the same governance disciplines this project demonstrates, applied here to a model instead of a database or report. This repository contains the structured artifacts themselves — model inventory, risk-tiering rationale, validation report, data-cleaning log, monitoring plan, and RACI matrix — not a description of what that documentation should contain in the abstract.
 
 ### 🛠️ Framework Mapping: OSFI E-23 Artifacts Deliverables
 
