@@ -2,6 +2,8 @@
 
 **Author:** Ogbonnaya Nzie Ezichi 
 
+📄 **[Download the one-page PDF summary](one-pager.pdf)**
+
 ---
 
 ### 📌 Project Executive Summary
