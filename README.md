@@ -9,6 +9,9 @@ This project treats data governance and model risk governance as the same discip
 
 OSFI's revised Guideline E-23 (finalized 2025, effective May 1, 2027) folds AI/ML models into federal supervisory requirements for the first time, pushing Canadian financial institutions to formalize explainability, bias screening, and data-quality lineage, the same governance disciplines this project demonstrates, applied here to a model instead of a database or report. This repository contains the structured artifacts themselves — model inventory, risk-tiering rationale, validation report, data-cleaning log, monitoring plan, and RACI matrix — not a description of what that documentation should contain in the abstract.
 
+### 🔗 Companion Project
+This project sits alongside a companion build, the [Microsoft Purview Data Governance Sandbox](https://github.com/sunnystats3n/Purview-Data-Governance-Sandbox), which applies the same governance discipline to CIHI hospitalization data. PIPEDA Principle 4.3.4 puts health records and financial records in the same top-sensitivity tier — both demand the same rigor: access control, audit trail, and documented risk assessment before the data or model is used. This project builds that rigor for a retail credit probability-of-default model; the Purview sandbox builds it for health data.
+
 ### 🛠️ Framework Mapping: OSFI E-23 Artifacts Deliverables
 
 | Deliverable Asset | OSFI E-23 Framework Alignment | Core Objective & Risk Control Covered |
