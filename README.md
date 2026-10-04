@@ -19,7 +19,7 @@ This project sits alongside a companion build, the [Microsoft Purview Data Gover
 | Deliverable Asset | OSFI E-23 Framework Alignment | Core Objective & Risk Control Covered |
 | :--- | :--- | :--- |
 | [📄 Model Inventory Entry](docs/01_model_inventory_entry.md) | **Model Inventory & Registry** | Establishing centralized model metadata, ownership, and tracking. |
-| [📄 Risk Tiering Rationale](docs/02_risk_tiering_rationale.md) | **Model Risk Rating & Assessment** | Categorizing model materiality and assigning Tier-level governance rigor. |
+| [📄 Risk Tiering Rationale](docs/02_risk_tiering_rationale.md) | **Model Risk Rating & Assessment** | Categorizing model materiality and assigning Tier-level governance rigour. |
 | [📄 Model Validation Report](docs/03_validation_report.md) | **Independent Validation & Review** | Stress-testing, challenge of assumptions, and AI/ML explainability. |
 | [📄 Monitoring & Drift Plan](docs/04_monitoring_drift_plan.md) | **Ongoing Model Performance Monitoring** | Outlining thresholds for data drift, concept drift, and model recalibration. |
 | [📄 Governance RACI Matrix](docs/05_governance_raci.md) | **Governance, Policies & Internal Controls** | Enforcing strict Segregation of Duties (SoD) between 1st and 2nd Line. |
