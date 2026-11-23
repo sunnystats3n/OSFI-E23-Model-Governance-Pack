@@ -6,8 +6,8 @@
 
 | Factor | Assessment | Contribution to rating |
 |---|---|---|
-| Portfolio scale | 149,390 records post-cleaning; illustrative retail book | High — retail underwriting models typically touch a large applicant volume |
-| Financial impact per decision | Underwriting decline/approval and pricing-adjacent decisions | High — direct customer and revenue impact per decision |
+| Portfolio scale | 149,390 records post-cleaning; illustrative retail book | High: retail underwriting models typically touch a large applicant volume |
+| Financial impact per decision | Underwriting decline/approval and pricing-adjacent decisions | High: direct customer and revenue impact per decision |
 | Event (bad) rate | 6.70% serious-delinquency rate | Moderate class imbalance; affects both model calibration and validation design (see `03_validation_report.md`) |
 
 ## Qualitative factors
