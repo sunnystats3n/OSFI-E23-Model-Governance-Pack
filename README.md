@@ -28,7 +28,7 @@ This project sits alongside a companion build, the [Microsoft Purview Data Gover
 
 ### 📊 Model Architecture & Quantitative Approach
 * **The Core Data Asset:** 150,000 retail credit profiles sourced from the public Kaggle *'Give Me Some Credit'* dataset. The objective function is a binary classification predicting serious delinquency (90+ days past due or worse) within a 2-year window.
-* **The Controlled Modeling Environment:** To isolate and audit model behavior accurately, two distinct model classes were trained using identical data pipelines and stratified splits (60/20/20 train/validation/test; `random_state=42`):
+* **The Controlled Modelling Environment:** To isolate and audit model behaviour accurately, two distinct model classes were trained using identical data pipelines and stratified splits (60/20/20 train/validation/test; `random_state=42`):
   1. **Traditional Scorecard Model (Logistic Regression):** Inherently transparent, stable, and easily auditable via static coefficients.
   2. **Advanced AI/ML Model (XGBoost):** Highly performant but presents a traditional "black-box" risk profile—the exact target of OSFI's 2025 E-23 modernization updates.
 
